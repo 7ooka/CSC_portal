@@ -673,6 +673,7 @@ footer .top-footer .footer-content-box p {
 .mission-vision .mission, .mission-vision .vision {
   padding-top: 24px;
   padding-bottom: 27px;
+  height: 100%;
 }
 
 .mission-vision .mission .top-sec, .mission-vision .vision .top-sec {
@@ -727,6 +728,7 @@ footer .top-footer .footer-content-box p {
 .mission-vision .vision {
   position: relative;
   margin-left: 65px;
+  height: 100%;
 }
 
 .mission-vision .vision::before {

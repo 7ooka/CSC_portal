@@ -436,6 +436,7 @@ footer{
   .mission, .vision{
      padding-top: 24px;
      padding-bottom: 27px;
+     height: 100%;
     .top-sec{
       margin-bottom: 10px;
       .img-box{
@@ -485,6 +486,7 @@ footer{
   .vision{
     position: relative;
     margin-#{$start-direction}: 65px;
+    height: 100%;
     &::before{
       content: "";
       position: absolute;
